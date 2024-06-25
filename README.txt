@@ -1,3 +1,7 @@
+El análisis completo de los datos se encuentra en Classification.ipynb o Classification.pdf.
+
+Para realizar predicciones hemos dejado unos archivos de prueba. 
+
 En una terminal de Python:
 
 1. Comprobación de requisitos:
